@@ -1,5 +1,4 @@
 <html>
-<title>Hello Strapdown</title>
 
 <xmp theme="united" style="display:none;">
 # pyes API
