@@ -1,6 +1,3 @@
-<html>
-
-<xmp theme="united" style="display:none;">
 # Elasticsearch tutorial
 本文件使用 [https://github.com/aparo/pyes](https://github.com/aparo/pyes) 作為 elasticsearch python library
 
@@ -457,8 +454,3 @@ Aggregation 是用來 summarize 資訊的方法，在這邊使用的是相同 te
 	fileTools.List_to_CSV(result['colIndexList'], "col_index.csv")
 	fileTools.List_to_CSV(result['rowIndexList'], "row_index.csv")
 	fileTools.Matrix_to_CSV(result['matrix'], "matrix.csv")
-	
-    
-</xmp>
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
